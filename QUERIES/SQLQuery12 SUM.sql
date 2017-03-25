@@ -1,0 +1,1 @@
+select SUM(ID) FROM CUSTOMERS

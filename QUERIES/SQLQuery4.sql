@@ -1,0 +1,7 @@
+CREATE TABLE ORDERS(
+   OID   INT              NOT NULL,
+   DATE DATE    NOT NULL,
+   CUSTOMER_ID  INT              NOT NULL,
+   AMOUNT  INT ,
+   PRIMARY KEY (CUSTOMER_ID)
+);

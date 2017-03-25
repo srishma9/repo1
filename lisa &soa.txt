@@ -1,0 +1,30 @@
+LISA provides a single environment to test and ensure quality across 
+all the implementation layers
+ where data and business logic resides
+Use LISA's easy point-and-click testing interface, then launch LISA tests from a command line.
+
+LISA runs on any client and supports Java and .NET and any other SOAP-compliant web services.
+
+Since LISA test cases and test runs are saved as XML files, you can incorporate them easily into your process as
+
+attachments to groupware, SCM (Source Code Management) issue tracking and requirements management tools.
+
+SOAP  is a protocol SOAP is a communication protocol designed to communicate via Internet.
+It is an XML-based messaging protocol for exchanging information among computers
+and the second is an architectural style.
+**soap usage A SOAP client works like a custom desktop application, tightly coupled to the server. 
+REST client is more like a browser. 
+It's a generic client that knows how to use a protocol and standardized methods, and an application has to fit inside that.
+***usage
+Used LISA to examine and validate the data base tables connecting through JDBC. 
+Automated REST services test scripts using LISA and SOAP UI. 
+**usage of soap UI
+Involved in Web Services Testing using SOAP UI to create and execute automated functional, regression, compliance, and load tests.  
+**soa usage
+SOA is an architectural style for building software applications that use services available in a network such as the web. 
+I used SOA as a streamline processe so that they can do business more efficiently, and adapt to changing needs and competition, enabling the software as a service concept.
+
+Extensively used LISA middleware testing tool to test JAVA middleware applications. 
+Built effective test data covering all possible scenarios and added in datasheets for LISA Testing
+Built the SQL logic in the LISA tool for automating the test efforts. 
+Using Lisa Functional testing, tested dynamic web sites, Rich internet Application browser interfaces, and both the UI layers and SOA Implementation layers

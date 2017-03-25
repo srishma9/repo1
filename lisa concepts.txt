@@ -8,7 +8,7 @@ Service Virtualization Engineer include developing, building and managing servic
 
 
 
- CA Lisa expert role and will work closely with the application and testing teams.Supporting a Service Virtualization product/capability (e.g. CA LISA Service Virtualization, IBM Rational Virtualization Server, Client Service Virtualization, ParaSoft)
+CA Lisa expert role and will work closely with the application and testing teams.Supporting a Service Virtualization product/capability (e.g. CA LISA Service Virtualization, IBM Rational Virtualization Server, Client Service Virtualization, ParaSoft)
 Create virtualized service models using CA/ITKO LISA services 
 Create automation scripts for testing of services using SOAP UI, Client Service Test, or equivalent toolset 
 Develop automation scripts using Selenium Web-Driver
