@@ -16,7 +16,7 @@ public class JavaSE_Test2 {
         JavascriptExecutor js = (JavascriptExecutor)driver;		
         		
         //Launching the Site.		
-        driver.get("http://demo.guru99.com/V4/");
+        driver.get("http://demo.com/V4/");
 			
         //Fetching the Domain Name of the site. Tostring() change object to name.		
         String DomainName = js.executeScript("return document.domain;").toString();			
