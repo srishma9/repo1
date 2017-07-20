@@ -17,7 +17,7 @@ public class JavaSE_Test {
         JavascriptExecutor js = (JavascriptExecutor)driver;		
         		
         //Launching the Site.		
-        driver.get("http://demo.guru99.com/V4/");			
+        driver.get("http://demo.com");			
         		
         WebElement button =driver.findElement(By.name("btnLogin"));			
         		
